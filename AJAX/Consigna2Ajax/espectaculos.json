@@ -1,0 +1,15 @@
+{
+    "Espectaculo": [{
+        "title": "Acrobacia",
+        "description": "Demencial espectaculo!",
+        "date": "2022-11-08",
+        "autor": "Woozito"
+    },
+    {
+        "title": "Massa XD",
+        "description": "El peor de todos..",
+        "date": "2010-11-08",
+        "autor": "Aveces"
+    }
+    ]
+}

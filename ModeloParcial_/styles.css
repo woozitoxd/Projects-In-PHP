@@ -1,0 +1,12 @@
+input[type='text']:hover{
+    background-color: gray;
+}
+
+.AutorizadoOculto {
+    display: none;
+}
+
+/* clase para mostrar los elementos */
+.grupos-visible {
+    display: block;
+}
